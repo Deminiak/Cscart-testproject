@@ -1,0 +1,76 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:3413:"    <div class="ty-mainbox-container clearfix homepage-reviews">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            Отзывы
+                                        
+
+                </h1>
+            
+
+                <div class="ty-mainbox-body">
+
+
+    <div class="ty-discussion-post__content">
+        
+        <span class="ty-discussion-post__author">Петрова Анна</span>
+        <span class="ty-discussion-post__date">08/03/2014, 20:56</span>
+        <div class="ty-discussion-post " id="post_130">
+            <span class="ty-caret"> <span class="ty-caret-outer"></span> <span class="ty-caret-inner"></span></span>
+
+                            <div class="clearfix ty-discussion-post__rating">
+                    <span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                </div>
+            
+                            <div class="ty-discussion-post__message">Я люблю это сайт. Здесь можно найти все. Узнала я о нем уже довольно давно. Частенько заказываю себе оттуда что-нибудь. Этот сайт делает скидки на многие товары, что определенно радует! В общем, я очень рада, что &quot;открыла&quot; эту площадку для себя, так как она позволяет экономить много денег.</div>
+            
+        </div>
+        
+
+    </div>
+    <div class="ty-discussion-post__content">
+        
+        <span class="ty-discussion-post__author">Иванова Мария</span>
+        <span class="ty-discussion-post__date">08/03/2014, 13:22</span>
+        <div class="ty-discussion-post  ty-discussion-post_even" id="post_129">
+            <span class="ty-caret"> <span class="ty-caret-outer"></span> <span class="ty-caret-inner"></span></span>
+
+                            <div class="clearfix ty-discussion-post__rating">
+                    <span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                </div>
+            
+                            <div class="ty-discussion-post__message">Осталась очень довольна качеством обслуживания интернет-магазина, стоимостью и условиями доставки. Заказывала неоднократно и никогда не было нареканий. Это мой самый любимый интернет-магазин.</div>
+            
+        </div>
+        
+
+    </div>
+
+<div class="ty-mtb-s ty-left ty-uppercase">
+    <a href="http://localhost/cscart/index.php?dispatch=discussion.view&amp;thread_id=26">посмотреть все</a>
+</div>
+</div>
+    </div>
+";}s:6:"expiry";i:0;}
