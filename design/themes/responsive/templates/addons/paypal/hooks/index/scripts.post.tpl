@@ -1,1 +1,0 @@
-{script src="js/addons/paypal/in_context_checkout.js"}
