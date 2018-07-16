@@ -1,0 +1,57 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::history"
+msgid "История изменения статусов заказов"
+msgstr "История изменения статусов заказов"
+
+msgctxt "Addons::description::history"
+msgid "История изменения статусов заказов"
+msgstr "История изменения статусов заказов"
+
+msgctxt "Languages::old_status"
+msgid "old status"
+msgstr "Старый статус"
+
+msgctxt "Languages::history"
+msgid "history"
+msgstr "История изменения статусов заказов"
+
+msgctxt "Languages::updated_status"
+msgid "updated status"
+msgstr "Новый статус"
+
+msgctxt "Languages::status_history.cancelled"
+msgid "Canceled"
+msgstr "Аннулирован"
+
+msgctxt "Languages::status_history.awaiting_call"
+msgid "Awaiting call"
+msgstr "Ожидает звонка"
+
+msgctxt "Languages::status_history.failure"
+msgid "Failure"
+msgstr "Неудача"
+
+msgctxt "Languages::status_history.declined"
+msgid "Declined"
+msgstr "Отклонен"
+
+msgctxt "Languages::status_history.postponed"
+msgid "Postponed"
+msgstr "Отложен"
+
+msgctxt "Languages::status_history.success"
+msgid "Processed"
+msgstr "Выполнен"
+
+msgctxt "Languages::status_history.opened"
+msgid "Opened"
+msgstr "Открыт"
+
+msgctxt "Languages::status_history.onwork"
+msgid "On work"
+msgstr "Обработан"

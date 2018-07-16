@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 $params = $_REQUEST;
 if ($mode == 'manage') {
 
-    $orders = fn_status_history_get(Registry::get('settings.Appearance.admin_elements_per_page'));
+    $orders = fn_history_get(Registry::get('settings.Appearance.admin_elements_per_page'));
     $search = $orders;
     Tygh::$app['view']->assign('orders', $orders);
     Tygh::$app['view']->assign('search', $search);

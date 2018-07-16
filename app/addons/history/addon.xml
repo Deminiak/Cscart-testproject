@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <addon scheme="3.0">
-    <id>status_history</id>
+    <id>history</id>
+    <name>История изменения статусов заказов</name>
     <version>1.0</version>
     <priority>100</priority>
     <status>active</status>
@@ -17,6 +18,6 @@
         </item>
         <item for="uninstall">DROP TABLE IF EXISTS ?:status_history;</item>
     </queries>
-        <default_language>en</default_language>
-
+    <default_language>ru</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
 </addon>

@@ -57,7 +57,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 }
 
 if ($mode == 'details') {
-
+    fn_print_r("test2");
     $discussion = fn_get_discussion($_REQUEST['order_id'], 'O', true, $_REQUEST);
     if (!empty($discussion) && $discussion['type'] != 'D') {
         if (fn_allowed_for('MULTIVENDOR') || (fn_allowed_for('ULTIMATE') && Registry::get('runtime.company_id')) || Registry::get('runtime.simple_ultimate')) {
